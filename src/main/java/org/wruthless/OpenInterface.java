@@ -1,2 +1,5 @@
-package org.wruthless;public interface OpenInterface {
+package org.wruthless;
+
+public interface OpenInterface {
+    void open();
 }

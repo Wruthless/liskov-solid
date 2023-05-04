@@ -1,2 +1,5 @@
-package org.wruthless;public interface BurnInterface {
+package org.wruthless;
+
+public interface BurnInterface {
+    void burn();
 }
